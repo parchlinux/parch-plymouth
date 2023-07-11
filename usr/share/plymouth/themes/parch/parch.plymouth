@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Parch
+Description=ParchLinux plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/parch
+ScriptFile=/usr/share/plymouth/themes/parch/parch.script

@@ -1,0 +1,1 @@
+# Parch Linux plymouth theme
